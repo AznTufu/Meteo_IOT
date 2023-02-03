@@ -26,8 +26,8 @@ Enfin, en fonction de la date et du quart que nous souhaitons afficher, nous ré
 
 https://youtube.com/shorts/-cIcWP7xgao?feature=share
 
-Reproduction de notre projet
-Si vous souhaitez réaliser ce projet, vous devrez modifier les informations de connexion Wifi dans le code en renseignant votre nom Wifi et le mot de passe.\
+Reproduction de notre projet \
+Si vous souhaitez réaliser ce projet, allez sur l'application Thonny, vous devrez modifier les informations de connexion Wifi dans le code en renseignant votre nom Wifi et le mot de passe.\
 Ensuite, vous devrez vous créer un compte sur API Météo pour récupérer votre token.\
 Vous pouvez essayer de garder le même token, mais étant donné que nous avons une version gratuite, mon token est limité à 500 requêtes par jour.\
 Dans l'URL, vous pouvez modifier la localisation de la ville que vous souhaitez récupérer.\
