@@ -4,6 +4,9 @@ Ce projet a été réalisé en 15 heures lors du cours Data & IOT du lundi 30 ja
 Le projet consiste à créer un appareil connecté à une API.\
 Nous avons donc eu l'idée de faire un script qui affiche la météo sur un panneau LED.
 
+<h2>Preview</h2>
+<img src="Assets/Exemple.png">
+
 ## Fonctionnement du projet
 Ce projet a été réalisé en Python et récupère des données de l'API : "API Météo".\
 Avec cette API, nous récupérons la température de la localisation de notre école à Nanterre, puis elle est organisée sous la forme de quarts :
