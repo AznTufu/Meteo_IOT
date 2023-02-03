@@ -95,7 +95,7 @@ while True:
         print('GETAPI')
         r = urequests.get(url)
         temperature = r.json()["forecast"][day][quart]["temp2m"]
-        print("Température : " + str(temperature)git)
+        print("Température : " + str(temperature))
         r.close()
     except Exception as e:
         print(e)
