@@ -1,6 +1,6 @@
 # Météo_IOT
 Projet réalisé par Tony ZHANG et Romain PARISOT.\
-Ce projet a été réalisé en 15 heures lors du cours Data & IOT du lundi 30 janvier au vendredi 3 février.\
+Ce projet a été réalisé en 10 heures lors du cours Data & IOT du lundi 30 janvier au vendredi 3 février.\
 Le projet consiste à créer un appareil connecté à une API.\
 Nous avons donc eu l'idée de faire un script qui affiche la météo sur un panneau LED.
 
