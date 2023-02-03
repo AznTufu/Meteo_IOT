@@ -35,6 +35,6 @@ Enfin, vous devrez reproduire les branchements du schéma ci-dessous et posséde
 - 1 Joystick
 - 14 fils
 
-<img src="asset/exemple.png">
+<img src="Assets/Schéma.png">
 
 
